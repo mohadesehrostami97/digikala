@@ -1,0 +1,14 @@
+div.twopic{
+    width: 88%;
+    height: 264px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    direction: rtl;
+    margin: auto;
+}
+div.twopic>img{
+    width: 660px;
+    height: inherit;
+    border-radius: 20px;
+}

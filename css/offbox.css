@@ -1,0 +1,165 @@
+div.offbox{
+    width: 1336px;
+    height: 812.5px;
+    padding: 0px 12px;
+    direction: rtl;
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+}
+div.offbox>div:nth-of-type(1){
+    width: 1310.4px;
+    height: 76px;
+    display: flex;
+    padding: 16px 0px;
+    margin: auto;
+    margin-bottom: 8px;
+    justify-content: center;
+    align-items: center;
+}
+div.offbox>div:nth-of-type(1)>div{
+    width: 24px;
+    height: 24px;
+    display: flex;
+}
+div.offbox>div:nth-of-type(1)>h3{
+    color: #000000;
+    font-size: 21px;
+    margin-right: 8px;
+}
+div.offbox>div:nth-of-type(2){
+    width: 1310.5px;
+    height: 726.5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+div.offbox>div:nth-of-type(2)>div{
+    width: 218.4px;
+    height:242.44px;
+    background-color: #ffffff;
+    padding: 12px 8px;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(1){
+    border-left: 1px solid lightgray;
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(2){
+    border-left: 1px solid lightgray;
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(3){
+    border-left: 1px solid lightgray;
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(4){
+    border-left: 1px solid lightgray;
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(5){
+    border-left: 1px solid lightgray;
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(6){
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(7){
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(8){
+    border-left: 1px solid lightgray;
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(9){
+    border-left: 1px solid lightgray;
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(10){
+    border-left: 1px solid lightgray;
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(11){
+    border-left: 1px solid lightgray;
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(12){
+    border-bottom:1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(13){
+    border-left: 1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(14){
+    border-left: 1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(15){
+    border-left: 1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(16){
+    border-left: 1px solid lightgray;
+}
+div.offbox>div:nth-of-type(2)>div:nth-of-type(17){
+    border-left: 1px solid lightgray;
+}
+
+
+
+div.offbox>div:nth-of-type(2)>div>div:nth-of-type(1){
+    width: 201.6px;
+    height: 150px;
+    margin-bottom: 4px;
+    padding: 0px 25px;
+}
+div.offbox>div:nth-of-type(2)>div>div:nth-of-type(1)>img{
+    width: 150px;
+    height: 150px;
+}
+div.offbox>div:nth-of-type(2)>div>div:nth-of-type(2){
+    width: 201.6px;
+    height: 63.64px;
+    padding-top: 4px;
+}
+div.offbox>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1){
+    width: 201.6px;
+    height: 33.6px;
+    display: flex;
+    align-items: center;
+}
+div.offbox>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1)>div.firstitem:nth-of-type(1){
+    width: 34px;
+    height: 20px;
+    background-color: #ef394e;
+    padding: 0px 4px;
+    border-radius: 50px;   
+}
+div.offbox>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1)>div.firstitem:nth-of-type(1)>span{
+    color: #ffffff;
+    font-size: 12px;
+}
+div.offbox>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1)>div.firstitem:nth-of-type(2){
+    width: 167.6px;
+    height: 33.6px;
+    direction: ltr;
+    display: flex;
+    align-items: center;
+}
+div.offbox>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1)>div.firstitem:nth-of-type(2)>span{
+    font-size: 16px;
+    color: #3f4064;
+
+
+}
+div.offbox>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1)>div.firstitem:nth-of-type(2)>svg{
+    width: 16px;
+    height: 16px;
+    scale: 1.1;
+}
+div.offbox>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(2){
+    width: 201.6px;
+    height: 21.04px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    font-size: 12px;
+    color: #c0c2c5;
+    direction: ltr;
+    text-decoration: line-through;
+}

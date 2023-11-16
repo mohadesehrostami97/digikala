@@ -1,0 +1,15 @@
+div.fourth{
+    width: 88%;
+    height: 241px;
+    margin: 15px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    direction: rtl;
+    
+}
+div.fourth>img{
+    width: 322px;
+    height: inherit;
+    border-radius: 25px;
+}

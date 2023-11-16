@@ -1,0 +1,102 @@
+div.shegeft{
+    width: 1336px;
+    height: 110px;
+    background-color: rgb(210, 203, 203);
+    border-radius: 20px;
+    display: flex;
+    margin: 10px 90px;
+    direction: rtl;
+    padding: 10px 20px;
+}
+div.shegeft>div.first{
+    width: 465.5px;
+    height: 62px;
+    margin-top: 15px;
+    display: flex;
+    position: relative;
+
+}
+div.shegeft>div.first>img:nth-of-type(2){
+    transform: scale(1);
+    position: absolute;
+    right: 65px;
+    top: 15px;
+}
+div.shegeft>div.first>div{
+    width: 109px;
+    height: 28px;
+    border-radius: 20px;
+    background-color: rgb(104, 164, 13);
+    position: absolute;
+    left: 5px;
+    top: 15px;
+}
+div.shegeft>div.first>div>p{
+    color: white;
+    text-align: center;
+    margin-top: 3px;
+}
+div.shegeft>div.second{
+    width: 633px;
+    height: 74px;
+    margin-right: 160px;
+    margin-top: 10px;
+    display: flex;
+}
+div.shegeft>div.second>div.circle{
+    width: 492px;
+    height: inherit;
+    display: flex;
+    gap: 7px;
+    
+}
+div.shegeft>div.second>div.circle>div{
+    width: 74px;
+    height: 74px;
+   
+    position: relative;
+}
+div.shegeft>div.second>div.circle>div>img{
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    object-fit: cover;
+    
+}
+div.shegeft>div.second>div.circle>div>div{
+    width: 32px;
+    height: 20px;
+    position: absolute;
+    bottom: 0px;
+    background: #ef394e;
+    border-radius:25px;
+    text-align: center;
+
+}
+div.shegeft>div.second>div.circle>div>div>span{
+    font-size: 14px;
+    color: white;
+}
+div.more{
+    width: 141px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: white;
+    margin: 12px;
+    display: flex;
+    align-items: center;
+    
+    
+}
+div.more>span{
+    font-size: 12px;
+    color: green;
+    margin-right: 15px;
+}
+div.more>svg{
+    color: green;
+    margin-left: 10px;
+    margin-top: 8px;
+    scale: 0.8;
+    
+}

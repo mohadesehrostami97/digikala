@@ -1,0 +1,12 @@
+div.stickypart{
+    width:48px ;
+    height: 48px;
+    background-color: #ef4056;
+    border-radius: 50%;
+    position: sticky;
+    z-index: 999;
+    bottom: 10px;
+    left: 40px; 
+    padding: 12px;
+    
+}
